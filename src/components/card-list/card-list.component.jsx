@@ -1,5 +1,5 @@
 import Card from '../card/card.component';
-import './card-list.style.css'
+import './card-list.styles.css'
 
 const CardList = ({ turtles }) => {
     return (

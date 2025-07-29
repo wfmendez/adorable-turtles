@@ -10,7 +10,7 @@
 
     border-radius: 5px;
 
-    padding: 25px;
+    padding: 20px;
 
     cursor: pointer;
 
@@ -24,7 +24,7 @@
 
     text-align: center;
 
-    width: 16em;
+    width: 14em;
 
 }
 
@@ -32,4 +32,8 @@
 
     transform: scale(1.05);
 
+}
+
+.card-container h1 {
+    color: #29246b;
 }

@@ -1,4 +1,4 @@
-import './card.style.css'
+import './card.styles.css'
 
 const Card = ({ name, description, imgURL }) => {
   return (
